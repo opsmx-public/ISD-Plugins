@@ -8,7 +8,7 @@
       "version": "1.0.1",
       "date": "2023-12-18T14:38:21.071875Z",
       "requires": "orca>=0.0.0,deck>=0.0.0",
-      "sha512sum": "abc06dc02e3ed0831acdda618539b6a6c1149eb6bc9578833d4f16010cc61003ac2a442fd27adcad25110c782ad59743ccf8eecdf99b1d903bc2e723ab890a0c",
+      "sha512sum": "7b6c16e0a8ce2baee71eb5a3806f07b8b6a962cbbf715f4a11343833a246a1f96a3d77975b989007cf0fc764e5e1c9cc8c2a7ebf5e077a75273fb0e051418342",
       "state": "",
       "url": "https://raw.githubusercontent.com/opsmx-public/ISD-Plugins/main/OrcaPolicyPlugin-v1.0.1-SNAPSHOT.zip"
     }
