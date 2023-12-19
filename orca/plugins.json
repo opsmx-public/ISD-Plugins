@@ -23,7 +23,7 @@
       "version": "1.0.1",
       "date": "2023-12-18T14:38:21.071875Z",
       "requires": "orca>=0.0.0,deck>=0.0.0",
-      "sha512sum": "ebb9cbce7e28ff76f62f1c43a65177511412459ec1745dc46763bd4c7cac1ab48ce919330234487ce745437ae8e218ae7bd7e3f25a2047571afc1ef72d490b04",
+      "sha512sum": "3ca7327aa066cd631cb463da5070bebe339daaa71f9bf64e0288986612589ddd001669cd81ec151dc06c5d1dea590cf8fd70c94049edddc54492ef7b4e4d8c23",
       "state": "",
       "url": "https://raw.githubusercontent.com/opsmx-public/ISD-Plugins/main/Front50PolicyPlugin-v1.0.1-SNAPSHOT.zip"
     }
