@@ -8,7 +8,7 @@
       "version": "1.0.1",
       "date": "2023-12-18T14:38:21.071875Z",
       "requires": "orca>=0.0.0,deck>=0.0.0",
-      "sha512sum": "7b6c16e0a8ce2baee71eb5a3806f07b8b6a962cbbf715f4a11343833a246a1f96a3d77975b989007cf0fc764e5e1c9cc8c2a7ebf5e077a75273fb0e051418342",
+      "sha512sum": "488a902b99298b8b8bbcbd68c6726293ad667529b5a01ed72cda5180bf6055b797a5f307792160ac7e82ab54e6837a8c5654946671739711cec54429d02d1512",
       "state": "",
       "url": "https://raw.githubusercontent.com/opsmx-public/ISD-Plugins/main/OrcaPolicyPlugin-v1.0.1-SNAPSHOT.zip"
     }
@@ -23,7 +23,7 @@
       "version": "1.0.1",
       "date": "2023-12-18T14:38:21.071875Z",
       "requires": "orca>=0.0.0,deck>=0.0.0",
-      "sha512sum": "b1c6512e1b3975b2c29bcc20d37b6d5d422e78983879d9d2c8f548b6f3c205eda929b12888b7a7b13b47f85967cb6b73f20f4e700ee2ee56380e7b613d9ad261",
+      "sha512sum": "921fa95c4fa2909bee6fea59e0fa00a2e05ff743cf4acfc7e1a9cdbd6d598c81f93238cfaccfd751a6bffd884a3942aa823246c702fa7607994473436a051d82",
       "state": "",
       "url": "https://raw.githubusercontent.com/opsmx-public/ISD-Plugins/main/Front50PolicyPlugin-v1.0.1-SNAPSHOT.zip"
     }
