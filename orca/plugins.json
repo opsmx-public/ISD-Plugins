@@ -9,7 +9,7 @@
       "date": "2023-12-18T14:38:21.071875Z",
       "requires": "orca>=0.0.0",
       //"sha512sum": "1d00121eebf77033dd8e7555f8a33b4c6549aa0c1d4bfeea0b4cf1760cb9ce2ea33bc0b9038f7fb905a9027b6fbfa64d78647452f8fc0679fbe53436fe2ed5d8",
-      "sha512sum": "f7d613645c906dee358ad3b9673027564008ff9068de4391b7731adf65f8cd870e4f814059c2289291ebf1ceca524445cc3f7bd8fe7d6aa24db996937c8a961e",
+      "sha512sum": "0fa83e1ca9be93d56fbf57a249fdf15c0335cb805f76071cc9655cf1127be13354a26c003be0aab77a13b4e143186d47b35736d88ffc6cff0d736a20518a4927",
       "state": "",
       "url": "https://raw.githubusercontent.com/opsmx-public/ISD-Plugins/main/OrcaPolicyPlugin-v1.0.2-SNAPSHOT.zip"
     }
