@@ -39,7 +39,7 @@
       "version": "v1.0.10.dirty-SNAPSHOT",
       "date": "2024-04-05T08:18:46.747575Z",
       "requires": "orca>=0.0.0",
-      "sha512sum": "ab7e74ad99aa07c65754e591fbb6041d627ce053914b309bcd28b9d8828855dad4632b242bd3a437f163a2eaa77b9bc387abb7505a0bb29a9265c0a2a4e79c1f"
+      "sha512sum": "ab7e74ad99aa07c65754e591fbb6041d627ce053914b309bcd28b9d8828855dad4632b242bd3a437f163a2eaa77b9bc387abb7505a0bb29a9265c0a2a4e79c1f",
       "url": "https://raw.githubusercontent.com/opsmx-public/ISD-Plugins/main/pf4jCustomStagePlugin-v1.0.10.dirty-SNAPSHOT.zip"
     }
    ]
