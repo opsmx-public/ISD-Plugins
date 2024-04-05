@@ -29,5 +29,20 @@
       "url": "https://raw.githubusercontent.com/opsmx-public/ISD-Plugins/main/Front50PolicyPlugin-v1.0.1-SNAPSHOT.zip"
     }
   ]
+},
+{
+    "id": "Opsmx.CustomStagePlugin",
+    "description": "An example of a PF4J-based plugin that provides a custom pipeline stage.",
+    "provider": "https://github.com/opsmx",
+    "releases": [
+        {
+            "version": "v1.0.10.dirty-SNAPSHOT",
+            "date": "2024-04-05T08:18:46.747575Z",
+            "requires": "orca>=0.0.0",
+            "sha512sum": "d9179c3ab3030e2cac71b56eabff215abba0930fceaef92c27135fd721e44c730846d7d2c48e88c4224abba520e97d5b8371747ace3bd6eed6bf882e1e1f2e1a",
+            "preferred": false,
+            "url": "https://raw.githubusercontent.com/opsmx-public/ISD-Plugins/main/pf4jCustomStagePlugin-v1.0.10.dirty-SNAPSHOT.zip"
+        }
+    ]
 }
 ]
