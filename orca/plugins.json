@@ -5,12 +5,11 @@
   "provider": "https://github.com/opsmx",
   "releases": [
     {
-      "version": "1.0.3",
+      "version": "1.0.2",
       "date": "2023-12-18T14:38:21.071875Z",
       "requires": "orca>=0.0.0",
       //"sha512sum": "1d00121eebf77033dd8e7555f8a33b4c6549aa0c1d4bfeea0b4cf1760cb9ce2ea33bc0b9038f7fb905a9027b6fbfa64d78647452f8fc0679fbe53436fe2ed5d8",
-      //"sha512sum": "acade2c8fd65470afebbb5fa621e38de734a4b749761ea50b25609b92045e07f2e263edc3a3857dd4318aca6f52d3564d83859ce6f068697b413f6ab696a7bb5",
-      "sha512sum": "5fd67f9c7a67ce78d74604ae9f381632d8446ba6cfa10e29c43771a1a812f4078082313aa0a68fb306482a0f32efb35835e555f2f14fab8e1e08ea4a29766523",
+      "sha512sum": "acade2c8fd65470afebbb5fa621e38de734a4b749761ea50b25609b92045e07f2e263edc3a3857dd4318aca6f52d3564d83859ce6f068697b413f6ab696a7bb5",
       "state": "",
       "url": "https://raw.githubusercontent.com/opsmx-public/ISD-Plugins/main/OrcaPolicyPlugin-v1.0.2-SNAPSHOT.zip"
     }
@@ -22,11 +21,10 @@
   "provider": "https://github.com/opsmx",
   "releases": [
     {
-      "version": "1.0.2",
+      "version": "1.0.1",
       "date": "2023-12-18T14:38:21.071875Z",
       "requires": "front50>=0.0.0",
-      //"sha512sum": "20723049aa9ae230227157c181abcbf5689002b7d79ebc844a881c2838d579ab33174b73ba53de8bfad2fac61a44d791f38985ff232d88ee4014054dcce60f47",
-      "sha512sum": "fc5f0c0d4ea41e996e5910ecd0089aa3e8cc04352f29c058195bca5e4c5f5798057d9748103316b27c8eca8d400e87021aa2385b8d986f738e98fedd9a24585f",
+      "sha512sum": "20723049aa9ae230227157c181abcbf5689002b7d79ebc844a881c2838d579ab33174b73ba53de8bfad2fac61a44d791f38985ff232d88ee4014054dcce60f47",
       "state": "",
       "url": "https://raw.githubusercontent.com/opsmx-public/ISD-Plugins/main/Front50PolicyPlugin-v1.0.1-SNAPSHOT.zip"
     }
